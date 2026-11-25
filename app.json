@@ -25,6 +25,16 @@
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#050505"
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "8f39fc2b-725f-4d89-869f-d552ed20dc03"
+      }
     }
   }
 }
